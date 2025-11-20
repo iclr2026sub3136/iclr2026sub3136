@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/3bfc5e64-fc14-4408-8951-1bf9ce6b8f94
 
 ### Qualitative Comparison with Standin
 
-For this comparison, Target Video 1 and Target Video 2 are taken directly from the official project homepage of Stand-in. We test these videos using different source identity images. As can be seen, Stand-in's performance is highly unstable across different source images, demonstrating poor preservation of attributes such as hairstyle, background, and pose. **It is worth noting that these two target videos contain no complex motions**. When we test with target videos that include more dynamic actions (e.g., Target Video 3 and Target Video 4), the degradation in quality becomes even more pronounced.
+For this comparison, Target Video 6 and Target Video 7 are taken directly from the official project homepage of Stand-in. We test these videos using different source identity images. As can be seen, Stand-in's performance is highly unstable across different source images, demonstrating poor preservation of attributes such as hairstyle, background, and pose. **It is worth noting that these two target videos contain no complex motions**. When we test with target videos that include more dynamic actions (e.g., Target Video 1 to 5), the degradation in quality becomes even more pronounced.
 
 https://github.com/user-attachments/assets/0849c569-820d-4166-9bd7-92dfd9a30fc5
 
