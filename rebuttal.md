@@ -6,65 +6,38 @@ This page provides additional video results to address the reviewers' comments.
 
 
 ### Performance in Complex Lighting
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/complex_lighting.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/ca7cd5d5-5035-426a-bc34-3c44d80c6cda
 
 
 ### Performance in Multi-Person Scenes
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/multi_person.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/5f91ca72-695e-454a-8c7a-d4cdff2105b2
 
 
 ### Generalization to Minority Demographics
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/minority_demographics.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/29893dce-ab8c-4436-8979-dcfa9f68494d
 
 
 ### Qualitative Comparison with FSGAN
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/compare_fsgan.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/3bfc5e64-fc14-4408-8951-1bf9ce6b8f94
 
 
 ### Qualitative Comparison with Standin
 
 For this comparison, Target Video 1 and Target Video 2 are taken directly from the official project homepage of Stand-in. We test these videos using different source identity images. As can be seen, Stand-in's performance is highly unstable across different source images, demonstrating poor preservation of attributes such as hairstyle, background, and pose. **It is worth noting that these two target videos contain no complex motions**. When we test with target videos that include more dynamic actions (e.g., Target Video 3 and Target Video 4), the degradation in quality becomes even more pronounced.
 
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/compare_standin.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/5645ab75-0d59-4d88-9cf2-6df8308521c7
 
 
 ### Visualization of Challenging Scenarios in IDBench-V
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/idbench-v.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/e0328e40-eb7f-421b-aacd-e9987077d0d3
 
 
 ### Handling Different Facial Structure
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/different_struct.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/2b57c519-53f8-4e32-b1a9-e2855f17716d
 
 
 ### Performance on Hair Occlusion Scenarios
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/hair_occlusion.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/da6c4656-5fe7-4d6a-8191-0ce6e4a12668
 
 ### Qualitative Comparison with Vividface
-<video width="720" controls autoplay loop muted>
-  <source src="./videos/hair_concerned_case.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/cda7d69c-c6f9-4f3b-8006-710e4ade9090
