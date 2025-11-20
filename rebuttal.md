@@ -42,4 +42,5 @@ https://github.com/user-attachments/assets/da6c4656-5fe7-4d6a-8191-0ce6e4a12668
 ### Qualitative Comparison with Vividface
 https://github.com/user-attachments/assets/cda7d69c-c6f9-4f3b-8006-710e4ade9090
 
-https://github.com/user-attachments/assets/6f0e92fc-5f49-4be5-bed2-87b30662da13
+https://github.com/user-attachments/assets/ac92b913-8d68-41f4-99ad-4d9691b511e6
+
