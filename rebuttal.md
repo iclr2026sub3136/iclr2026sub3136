@@ -45,3 +45,5 @@ https://github.com/user-attachments/assets/cda7d69c-c6f9-4f3b-8006-710e4ade9090
 ### Limitation from Low-Quality Source Image
 https://github.com/user-attachments/assets/ac92b913-8d68-41f4-99ad-4d9691b511e6
 
+### More Examples of Attribute Swapping
+https://github.com/user-attachments/assets/04da322f-a948-4ceb-a039-1ce452680dbb
